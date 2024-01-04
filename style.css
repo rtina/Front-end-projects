@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .container{
+    background-color: #43e065;
+} */
+.navbar-brand{
+   margin-right: 18px;
+}
+.web-heading{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+}
+.web-sub_heading{
+    font-size:20px;
+    text-align: center;
+    color: #94928e;
+    margin-bottom: 20px;
+}
+.author{    
+    margin: auto;
+    height: 80px;
+    width: 50%;
+    /* background-color: blue; */
+    display: flex;
+}
+.author .icon img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 13px 20px 5px 110px;
+}
+.follower_section h5{
+    font-size: 15px;
+}
+.follower_section h6{
+    font-size: 14px;
+    font-weight: normal;
+    color: #94928e;
+}
+.follower_section span{
+    color: #43e065;
+    font-style: normal;
+}
+.author .follower_section{
+      margin-top: 15px;
+
+}
+.symbol_section{
+    margin: auto;
+    height: 90px;
+    width: 30%;
+}
+.symbol_section hr{
+    color: #94928e;
+    font-weight: lighter;
+}
+.symbol_section i{
+    color: #94928e;
+    margin-left: 10px;
+}
+.Big_pic img{
+    width: 50%;
+    margin-left:310px;
+    margin-bottom: 30px;
+    
+}
+.Content{
+    margin: auto;
+    height: 80vh;
+    width: 60%;
+    /* background-color: blue; */
+    font-size: 17px;
+}
+.Content h3{
+    margin-bottom: 18px;
+}
+.video{
+    margin: 20px;
+}
+.Description{
+    text-align: justify;
+
+}
+
+.icon-nav{
+    height: 35px;
+    width: 38px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.footer{
+    background-color: #aeaba4;
+    margin-top: 160%;
+    height: 90px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.copyright{
+    padding-top: 9px;
+}
+
+.footer-col .social-links a{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgb(35, 49, 209);
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: white;
+    transition: all 0.3s ease;
+}
+
+.footer-col .social-links a:hover{
+    color: white;
+    background-color: rgb(114, 150, 205);
+
+}
