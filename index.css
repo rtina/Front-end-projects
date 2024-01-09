@@ -106,3 +106,11 @@ span{
 .images .girl{
     margin-bottom: 70px;
 }
+
+
+@media (max-width :1029px){
+   
+    .images{
+        display: none;
+    }
+}

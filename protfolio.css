@@ -286,11 +286,11 @@ hr{
         opacity: 0.5;
         width: 80%;
         margin-left: 10% ;
-        margin-top: 20%;
+        margin-top: 15%;
     }
     .Services{
         height: 60vh;
-        margin-top: 20px;
+        margin-top: 10px;
         /* background-color: #ebe8ea; */
     }
     
@@ -319,7 +319,7 @@ hr{
         opacity: 0.5;
         width: 80%;
         margin-left: 10% ;
-        margin-top: 70%;
+        margin-top: 20%;
     }
     .Services{
         height: 70vh;
@@ -355,7 +355,7 @@ hr{
         opacity: 0.5;
         width: 80%;
         margin-left: 10% ;
-        margin-top: 100%;
+        margin-top: 5%;
     }
     .wrapper .static-txt{
         font-size: 20px;
@@ -365,6 +365,12 @@ hr{
         height: 80px;
         width: 80px;
         border-radius: 50%;
+    }
+    .experience{
+        margin-top: 40%;
+    }
+    .skills{
+        margin-top: 2%;
     }
     .experience .icons{
         height: 90px;
@@ -383,7 +389,7 @@ hr{
     }
     .experience{
         height: 50vh;
-        margin-top: 110%;
+        margin-top: 50%;
         /* background-color: #d4224b; */
     }
     .wrapper .static-txt{
