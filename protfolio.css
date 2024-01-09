@@ -148,7 +148,7 @@ nav ul li a:hover{
     line-height: 25px;
 }
 .skills{
-   margin-top: 80px;
+   margin-top: 95px;
     height: 100vh;
 }
 
@@ -310,6 +310,9 @@ hr{
         margin-right: 10px;
 
     
+    }
+    .text{
+        font-size: 10px;
     }
 }
 
